@@ -4,8 +4,7 @@ URL<br/>
 Project demonstration video  
 https://youtu.be/i48hPbYk9CM  
 Node Red UI link<br/>
-https://node-red-vmuln.eu-gb.mybluemix.net/ui/
-
+https://node-red-vmuln.eu-gb.mybluemix.net/ui/#!/1?socketid=5vEV3e1JVJqhwsOuAAAC
 
 Project Description:
 
