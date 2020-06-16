@@ -6,6 +6,10 @@ https://youtu.be/i48hPbYk9CM
 Node Red UI link<br/>
 https://node-red-vmuln.eu-gb.mybluemix.net/ui/#!/0?socketid=Mx47lCEeGl6hUU3tAAAV
 
+Smartinternz Feedback Video
+https://youtu.be/-8xKZ_Hm188
+
+
 Project Description:
 
 The typical customer care chatbot can answer simple questions, such as store locations and hours, directions, and maybe even making appointments. When a question falls outside of the scope of the pre-determined question set, the option is typically to tell the customer the question isn’t valid or offer to speak to a real person.  
